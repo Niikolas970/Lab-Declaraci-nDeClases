@@ -73,12 +73,3 @@ for (let i = 0; i < todos.length; i++) {
 }
 console.log(`El costo mensual es de: ${nominaTotal}`);
 console.log(`El costo anual es de: ${nominaTotal * 12}`);
-
-
-echo "# Lab-Declaraci-nDeClases" >> README.md
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Niikolas970/Lab-Declaraci-nDeClases.git
-git push -u origin main
